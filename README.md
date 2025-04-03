@@ -2,6 +2,7 @@
 
 1. Clonar el repositorio
 2. Crear un archivo `.env` con las variables de entorno
+3. Ejecutar el comando `git submodule update --init --recursive` para reconstruir los submódulos
 3. Ejecutar el comando`docker-compose up --build`
 
 
